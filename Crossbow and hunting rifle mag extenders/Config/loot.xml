@@ -1,0 +1,16 @@
+<configs>
+
+<append xpath="/lootcontainers/lootgroup[@name='modGunT1']">
+	<item name="modGunMagazinePlusTwo"/>
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='modGunT2']">
+    <item name="modGunMagazinePlusFour"/>
+	<item name="CrossbowRepeater"/>
+</append>
+
+
+
+</configs>
+
+
